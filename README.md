@@ -6,18 +6,18 @@ Long Island faces unique water quality concerns because most buildings use onsit
 This analysis specifically looked at …
 
 Results: 
-•	One drawback to this analysis is that Suffolk county has provided data about only approximately 23% of parcels in Suffolk County about if they are connected to sewage systems or not. However, previous literature in the water quality in Field has identified that close to 75% of county buildings lack sewage infrastructure.
+	One drawback to this analysis is that Suffolk county has provided data about only approximately 23% of parcels in Suffolk County about if 	  they are connected to sewage systems or not. However, previous literature in the water quality in Field has identified that close to 75% of 	      county buildings lack sewage infrastructure.
 
-•	State data about where wastewater treatment plants are located helps provide a picture that many urban areas lack a WWTP, including Huntingville. The data also indicates that coastal neighborhoods in the Hamptons have few waste water treatment facilities
+	State data about where wastewater treatment plants are located helps provide a picture that many urban areas lack a WWTP, including     	Huntingville. The data also indicates that coastal neighborhoods in the Hamptons have few waste water treatment facilities
 
-•	WWTP count & Sewer count/land use
+	WWTP count & Sewer count/land use
 
-•	Sewer count by income
+	Sewer count by income
 
-•	Sewer count per capita by ZIP (w/data)
+	Sewer count per capita by ZIP (w/data)
 
 Input Data
-This analysis uses data from the 2018 American community service API, the Suffolk County Open Data Portal, the New York State GIS Portal, and USGS Coram. Information about centroids for each tax parcel and wastewater facility locations were downloaded from the New York State GIS Parcel information site.
+	This analysis uses data from the 2018 American community service API, the Suffolk County Open Data Portal, the New York State GIS Portal, 	  and USGS Coram. Information about centroids for each tax parcel and wastewater facility locations were downloaded from the New York State           GIS Parcel information site.
 
 	Parcel data for New York State:
 	Available via New York State Parcel GIS Portal https://gis.ny.gov/parcels
@@ -32,22 +32,22 @@ This analysis uses data from the 2018 American community service API, the Suffol
       Available via Suffolk County Open Data Portal https://opendata.suffolkcountyny.gov/search?tags=gis%20data
      
 Tableau: 
-The map is colored by median earnings per zip code, with red representing lower income & blue representing higher income
+	The map is colored by median earnings per zip code, with red representing lower income & blue representing higher income
 
-The map contains the following for select property centroids:
-- Sewage Connection Status
-- Water Supply Type
+	The map contains the following for select property centroids:
+	- Sewage Connection Status
+	- Water Supply Type
 
-The map contains WWTPs
+	The map contains WWTPs
 
-The map contains the following for each ZIP Code:
-- Median income
-- Total Population
-- Number of WWTPs
-- Number of Buildings with Sewer Connections
-- Number of Buildings with no Sewer (OWTS)
-- Number of Buildings with Public Water Supply
-- Number of Buildings with Private Water Supply
+	The map contains the following for each ZIP Code:
+	- Median income
+	- Total Population
+	- Number of WWTPs
+	- Number of Buildings with Sewer Connections
+	- Number of Buildings with no Sewer (OWTS)
+	- Number of Buildings with Public Water Supply
+	- Number of Buildings with Private Water Supply
 
 Figures:
 
