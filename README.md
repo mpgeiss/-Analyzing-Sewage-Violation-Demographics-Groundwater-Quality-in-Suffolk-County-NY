@@ -16,7 +16,7 @@ Results:
 
 	Sewer count per capita by ZIP (w/data)
 
-Input Data
+Input Data:
 	This analysis uses data from the 2018 American community service API, the Suffolk County Open Data Portal, the New York State GIS Portal, 	  and USGS Coram. Information about centroids for each tax parcel and wastewater facility locations were downloaded from the New York State           GIS Parcel information site.
 
 	Parcel data for New York State:
