@@ -52,10 +52,26 @@ Tableau:
 	- Number of Buildings with Private Water Supply
 
 Figures:
+
 Figure 1: Land-Use categories with white areas as residential for Suffolk County, LI, with data provided by Suffolk County Open Data Portal
 
 ![white areas residential land uses](https://user-images.githubusercontent.com/65619679/236970174-9a7717b1-e668-4248-b638-78671fa7be4b.png)
 <img width="609" alt="Screen Shot 2023-05-08 at 9 22 15 PM" src="https://user-images.githubusercontent.com/65619679/236970329-9e766f2c-8705-4ce3-b4f8-53d6cd996ff0.png">
+
+Figure 2: Plotting parcels with sewage locations (yellow) against income by zip-code
+
+![sewer locations given by income](https://user-images.githubusercontent.com/65619679/236970529-dbc8e2cc-037c-4884-9787-9f990d10e7c1.png)
+<img width="443" alt="image" src="https://user-images.githubusercontent.com/65619679/236970569-c3d60155-609c-445e-9ef2-55bfb4fdba7a.png">
+
+Figure 3: Plotting parcels with sewage locations (yellow) against total population by zip-code
+
+![sewer locations by income share](https://user-images.githubusercontent.com/65619679/236970637-ad3f00bf-ce20-4cac-a65f-49ecdee118da.png)
+<img width="368" alt="image" src="https://user-images.githubusercontent.com/65619679/236970607-67b5175f-c769-4ab8-ba08-fbc52484293c.png">
+
+Figure 4: Plotting parcels with sewage locations (yellow) against WWTP locations (pink) atop land-use color file
+
+![sewage connections vs  WWTP locations entire county](https://user-images.githubusercontent.com/65619679/236970742-6d52a89c-5d25-4fa9-b74f-610d02f8600e.png)
+
 
 
 
