@@ -1,6 +1,6 @@
 # -Analyzing-Sewage-Violation-Demographics-Groundwater-Quality-in-Suffolk-County-NY
 
-# - Summary and Motivating Question: 
+## - Summary and Motivating Question: 
 Long Island faces unique water quality concerns because most buildings use onsite wastewater treatment systems (OWTS), which include septic tanks and leach fields, that directly discharge contaminants from filtered water into the only drinking water aquifer that more than 3 million Long Island residents drink from. 
 
 This analysis specifically looked at parcel-level data about wastewater processing infrastructure to assess which properties send their sewage to a central treatment plant and which have septic systems and directly Dump effluent into nearby groundwater. The goal is to analyze how the density of properties that have sewage connection infrastructure varies with geographic & demographic factors, including land-use, and zip-code level median income & total population.
