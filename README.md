@@ -72,7 +72,17 @@ Figure 4: Plotting parcels with sewage locations (yellow) against WWTP locations
 
 ![sewage connections vs  WWTP locations entire county](https://user-images.githubusercontent.com/65619679/236970742-6d52a89c-5d25-4fa9-b74f-610d02f8600e.png)
 
+Figure 5: Plotting parcels with sewage locations (yellow) with land-use for each parcel
 
+![sewage locations by land use](https://user-images.githubusercontent.com/65619679/236971258-61272a2e-7aa2-4eab-bbce-a6f31ad46766.png)
+<img width="609" alt="Screen Shot 2023-05-08 at 9 29 48 PM" src="https://user-images.githubusercontent.com/65619679/236971307-f871d68d-8360-4b25-ad40-b6427ca2660c.png">
+
+Figure 6: Mapping  parcels with sewage locations (yellow) against WWTP locations (pink) atop land-use color file for Eastern County Suffolk Coast
+
+![sewer connects zoom end island vs WWTPs](https://user-images.githubusercontent.com/65619679/236971773-7769af43-e551-463f-889d-4994b1eea7b4.png)
+
+
+Figure 7: 
 
 
 
