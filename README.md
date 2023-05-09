@@ -52,4 +52,7 @@ Tableau:
 	- Number of Buildings with Private Water Supply
 
 Figures:
+![white areas blank residential](https://user-images.githubusercontent.com/65619679/236969691-8db621b2-a5a2-4440-bd1a-ce062048aa60.png)
+
+
 
