@@ -5,33 +5,33 @@ Long Island faces unique water quality concerns because most buildings use onsit
 
 This analysis specifically looked at parcel-level data about wastewater processing infrastructure to assess which properties send their sewage to a central treatment plant and which have septic systems and directly Dump effluent into nearby groundwater. The goal is to analyze how the density of properties that have sewage connection infrastructure varies with geographic & demographic factors, including land-use, and zip-code level median income & total population.
 
-Results: 
+## - Results: 
 One drawback to this analysis is that Suffolk county has provided data about only approximately 23% of parcels in Suffolk County about if 	  they are connected to sewage systems or not. However, previous literature in the water quality in Field has identified that close to 75% of 	      county buildings lack sewage infrastructure.
 
 State data about where wastewater treatment plants are located helps provide a picture that many urban areas lack a WWTP, including     	Huntingville. The data also indicates that coastal neighborhoods in the Hamptons have few waste water treatment facilities
 
-	For Properties without septic system connections, 31% are recreational condition, 30% are residential, and open spaces, 28% are vacant. By 	   ZIP Code, zip code 11968 (Southampton), 11901 (Riverhead), and 11978 (Westhampton Beach) have the most parcels with septic tanks. It is 	   surprising for Westhampton Beach, which has an airport, to not have more modern sewage infrastructure.
+For Properties without septic system connections, 31% are recreational condition, 30% are residential, and open spaces, 28% are vacant. By 	   ZIP Code, zip code 11968 (Southampton), 11901 (Riverhead), and 11978 (Westhampton Beach) have the most parcels with septic tanks. It is 	   surprising for Westhampton Beach, which has an airport, to not have more modern sewage infrastructure.
 	
-	For tax parcels with sewer connections, 93% of them are located on residential properties for the data provided. 3% are located at 		commercial sites. For each ZIP Code, 11968, 11787, and 11946, respectively, have the highest number of parcels with sewer connections for 	  wastewater processing, which represent the Southampton region, smith town, & the Town of Hampton bays. ZIP Code 11767, part of Smithtown,           has the highest density of sewer connections per land area unit. Having a higher sooner density is likely favorable for surrounding drinking         water quality because it implies that fewer buildings are directly filtering & discharging wastewater onsite.
+For tax parcels with sewer connections, 93% of them are located on residential properties for the data provided. 3% are located at 		commercial sites. For each ZIP Code, 11968, 11787, and 11946, respectively, have the highest number of parcels with sewer connections for 	  wastewater processing, which represent the Southampton region, smith town, & the Town of Hampton bays. ZIP Code 11767, part of Smithtown,           has the highest density of sewer connections per land area unit. Having a higher sooner density is likely favorable for surrounding drinking         water quality because it implies that fewer buildings are directly filtering & discharging wastewater onsite.
 	
 
 
-Input Data:
-	This analysis uses data from the 2018 American community service API, the Suffolk County Open Data Portal, the New York State GIS Portal, 	  and USGS Coram. Information about centroids for each tax parcel and wastewater facility locations were downloaded from the New York State           GIS Parcel information site.
+## - Input Data:
+This analysis uses data from the 2018 American community service API, the Suffolk County Open Data Portal, the New York State GIS Portal, 	  and USGS Coram. Information about centroids for each tax parcel and wastewater facility locations were downloaded from the New York State           GIS Parcel information site.
 
-	Parcel data for New York State:
-	Available via New York State Parcel GIS Portal https://gis.ny.gov/parcels
+Parcel data for New York State:
+Available via New York State Parcel GIS Portal https://gis.ny.gov/parcels
 
-	Recent Sewage Activity Data: Describes Sewage Connections, Disconnections, & Permit activity 2012-2022
-	Available via Suffolk County Open Data Portal https://opendata.suffolkcountyny.gov/maps/residential-sewer-connection-and-discharge-		permits/about.		
+Recent Sewage Activity Data: Describes Sewage Connections, Disconnections, & Permit activity 2012-2022
+Available via Suffolk County Open Data Portal https://opendata.suffolkcountyny.gov/maps/residential-sewer-connection-and-discharge-		permits/about.		
  
-      New York State WWTP Locations Data:
-      Available via NYS GIS Clearinghouse https://data.gis.ny.gov/search?categories=water
+New York State WWTP Locations Data:
+Available via NYS GIS Clearinghouse https://data.gis.ny.gov/search?categories=water
 
-      Suffolk County Land Use Shapefile:
-      Available via Suffolk County Open Data Portal https://opendata.suffolkcountyny.gov/search?tags=gis%20data
+Suffolk County Land Use Shapefile:
+Available via Suffolk County Open Data Portal https://opendata.suffolkcountyny.gov/search?tags=gis%20data
       
-      USGS Groundwater data: Provided in 'sites.csv' file
+USGS Groundwater data: Provided in 'sites.csv' file
      
 Tableau: 
 	The map is colored by median earnings per zip code, with red representing lower income & blue representing higher income
@@ -51,7 +51,7 @@ Tableau:
 	- Number of Buildings with Public Water Supply
 	- Number of Buildings with Private Water Supply
 
-Figures:
+## - Figures:
 
 Figure 1: Land-Use categories with white areas as residential for Suffolk County, LI, with data provided by Suffolk County Open Data Portal
 Shows: 
