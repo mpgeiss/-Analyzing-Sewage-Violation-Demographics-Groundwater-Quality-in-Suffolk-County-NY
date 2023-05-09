@@ -81,8 +81,15 @@ Figure 6: Mapping  parcels with sewage locations (yellow) against WWTP locations
 
 ![sewer connects zoom end island vs WWTPs](https://user-images.githubusercontent.com/65619679/236971773-7769af43-e551-463f-889d-4994b1eea7b4.png)
 
+Figure 7: Median Pharmaceutical Concentrations (ng/L) for GW Sites within each ZIP Code atop parcel land-use layer
 
-Figure 7: 
+
+<img width="609" alt="Screen Shot 2023-05-08 at 9 41 56 PM" src="https://user-images.githubusercontent.com/65619679/236972723-f9c348cd-8033-4822-b7b2-afa0a1d80ee8.png">
+
+Figure 8: Median Pesticide Concentrations (ng/L) for GW Sites within each ZIP Code atop parcel land-use layer
+
+
+
 
 
 
