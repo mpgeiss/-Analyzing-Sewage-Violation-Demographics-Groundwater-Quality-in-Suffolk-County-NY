@@ -83,13 +83,12 @@ Figure 6: Mapping  parcels with sewage locations (yellow) against WWTP locations
 
 Figure 7: Median Pharmaceutical Concentrations (ng/L) for GW Sites within each ZIP Code atop parcel land-use layer
 
-<img width="958" alt="Screen Shot 2023-05-08 at 9 46 26 PM" src="https://user-images.githubusercontent.com/65619679/236973275-48a49da2-06fe-458a-8343-d5b30253515a.png">
+<img width="945" alt="image" src="https://user-images.githubusercontent.com/65619679/236975796-ed775d43-b546-42c1-9af3-18e45ab36f30.png">
 <img width="609" alt="Screen Shot 2023-05-08 at 9 41 56 PM" src="https://user-images.githubusercontent.com/65619679/236972723-f9c348cd-8033-4822-b7b2-afa0a1d80ee8.png">
 
 Figure 8: Median Pesticide Concentrations (ng/L) for GW Sites within each ZIP Code atop parcel land-use layer
 
+<img width="958" alt="Screen Shot 2023-05-08 at 9 46 26 PM" src="https://user-images.githubusercontent.com/65619679/236973275-48a49da2-06fe-458a-8343-d5b30253515a.png">
+<img width="476" alt="Screen Shot 2023-05-08 at 10 06 55 PM" src="https://user-images.githubusercontent.com/65619679/236975847-0e3c93ea-fc1c-4cc8-8647-1fe56040c777.png">
 
-
-
-
-
+Figure 9: Number of WWTPs by Land Use
