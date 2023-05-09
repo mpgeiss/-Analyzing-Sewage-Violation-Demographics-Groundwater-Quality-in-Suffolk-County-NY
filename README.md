@@ -30,6 +30,8 @@ Input Data:
 
       Suffolk County Land Use Shapefile:
       Available via Suffolk County Open Data Portal https://opendata.suffolkcountyny.gov/search?tags=gis%20data
+      
+      USGS Groundwater data: Provided in 'sites.csv' file
      
 Tableau: 
 	The map is colored by median earnings per zip code, with red representing lower income & blue representing higher income
