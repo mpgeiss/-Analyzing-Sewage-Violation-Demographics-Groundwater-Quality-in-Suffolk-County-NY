@@ -19,20 +19,27 @@ For tax parcels with sewer connections, 93% of them are located on residential p
 ##  Input Data:
 This analysis uses data from the 2018 American community service API, the Suffolk County Open Data Portal, the New York State GIS Portal, 	  and USGS Coram. Information about centroids for each tax parcel and wastewater facility locations were downloaded from the New York State           GIS Parcel information site.
 
-Parcel data for New York State:
-Available via New York State Parcel GIS Portal https://gis.ny.gov/parcels
+#### Parcel data for New York State:
+Available via New York State Parcel GIS Portal https://gis.ny.gov/parcels. Download the file 'NYS-Tax-Parcel-Centroid-Points.gdb.zip'
 
-Recent Sewage Activity Data: Describes Sewage Connections, Disconnections, & Permit activity 2012-2022
+#### Recent Sewage Activity Data: Describes Sewage Connections, Disconnections, & Permit activity 2012-2022
 Available via Suffolk County Open Data Portal https://opendata.suffolkcountyny.gov/maps/residential-sewer-connection-and-discharge-permits/about.		
- 
-New York State WWTP Locations Data:
-Available via NYS GIS Clearinghouse https://data.gis.ny.gov/search?categories=water
+#### New York State WWTP Locations Data:
+Available via NYS GIS Clearinghouse https://data.gis.ny.gov/search?categories=water. File name is 'Wastewater_Facility.zip'
 
-Suffolk County Land Use Shapefile:
+#### Suffolk County Land Use Shapefile:
 Available via Suffolk County Open Data Portal https://opendata.suffolkcountyny.gov/search?tags=gis%20data
       
-USGS Groundwater data: Provided in 'sites.csv' file
-     
+#### USGS Groundwater data: 
+Provided in 'sites.csv' file
+
+### Map-building files
+#### US zip-code boundaries: 
+	
+
+#### US county boundaries: 
+	
+	
 Tableau: 
 	The map is colored by median earnings per zip code, with red representing lower income & blue representing higher income
 
