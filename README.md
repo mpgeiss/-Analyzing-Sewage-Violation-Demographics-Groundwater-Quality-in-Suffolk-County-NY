@@ -23,7 +23,7 @@ Parcel data for New York State:
 Available via New York State Parcel GIS Portal https://gis.ny.gov/parcels
 
 Recent Sewage Activity Data: Describes Sewage Connections, Disconnections, & Permit activity 2012-2022
-Available via Suffolk County Open Data Portal https://opendata.suffolkcountyny.gov/maps/residential-sewer-connection-and-discharge-		permits/about.		
+Available via Suffolk County Open Data Portal https://opendata.suffolkcountyny.gov/maps/residential-sewer-connection-and-discharge-permits/about.		
  
 New York State WWTP Locations Data:
 Available via NYS GIS Clearinghouse https://data.gis.ny.gov/search?categories=water
