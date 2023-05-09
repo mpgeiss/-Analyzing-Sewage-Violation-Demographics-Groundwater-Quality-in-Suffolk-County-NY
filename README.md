@@ -35,10 +35,10 @@ Provided in 'sites.csv' file
 
 ### Map-building files
 #### US zip-code boundaries: 
-	
+Download the file 'tl_2020_us_zcta510.zip' from https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2020&layergroup=ZIP+Code+Tabulation+Areas.
 
 #### US county boundaries: 
-	
+Download the file 'cb_2018_us_county_500k.zip' from US Census Tiger Line file site: https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
 	
 Tableau: 
 	The map is colored by median earnings per zip code, with red representing lower income & blue representing higher income
