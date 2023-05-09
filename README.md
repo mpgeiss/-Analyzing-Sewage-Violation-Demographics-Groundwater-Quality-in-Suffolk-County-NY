@@ -3,18 +3,16 @@
 Summary and Motivating Question:
 Long Island faces unique water quality concerns because most buildings use onsite wastewater treatment systems (OWTS), which include septic tanks and leach fields, that directly discharge contaminants from filtered water into the only drinking water aquifer that more than 3 million Long Island residents drink from. 
 
-This analysis specifically looked at …
+This analysis specifically looked at parcel-level data about wastewater processing infrastructure to assess which properties send their sewage to a central treatment plant and which have septic systems and directly Dump effluent into nearby groundwater. The goal is to analyze how the density of properties that have sewage connection infrastructure varies with geographic & demographic factors, including land-use, and zip-code level median income & total population.
 
 Results: 
 	One drawback to this analysis is that Suffolk county has provided data about only approximately 23% of parcels in Suffolk County about if 	  they are connected to sewage systems or not. However, previous literature in the water quality in Field has identified that close to 75% of 	      county buildings lack sewage infrastructure.
 
 	State data about where wastewater treatment plants are located helps provide a picture that many urban areas lack a WWTP, including     	Huntingville. The data also indicates that coastal neighborhoods in the Hamptons have few waste water treatment facilities
 
-	WWTP count & Sewer count/land use
+	For Properties without septic system connections, 31% are recreational condition, 30% are residential, and open spaces, 28% are vacant. By 	   ZIP Code, zip code 11968 (Southampton), 11901 (Riverhead), and 11978 (Westhampton Beach) have the most parcels with septic tanks. It is 	   surprising for Westhampton Beach, which has an airport, to not have more modern sewage infrastructure.
+	
 
-	Sewer count by income
-
-	Sewer count per capita by ZIP (w/data)
 
 Input Data:
 	This analysis uses data from the 2018 American community service API, the Suffolk County Open Data Portal, the New York State GIS Portal, 	  and USGS Coram. Information about centroids for each tax parcel and wastewater facility locations were downloaded from the New York State           GIS Parcel information site.
@@ -22,8 +20,8 @@ Input Data:
 	Parcel data for New York State:
 	Available via New York State Parcel GIS Portal https://gis.ny.gov/parcels
 
-	Recent Sewage Activity Data:
-	Available via Suffolk County Open Data Portal https://opendata.suffolkcountyny.gov/maps/residential-sewer-connection-and-discharge-		permits/about
+	Recent Sewage Activity Data: Describes Sewage Connections, Disconnections, & Permit activity 2012-2022
+	Available via Suffolk County Open Data Portal https://opendata.suffolkcountyny.gov/maps/residential-sewer-connection-and-discharge-		permits/about.		
  
       New York State WWTP Locations Data:
       Available via NYS GIS Clearinghouse https://data.gis.ny.gov/search?categories=water
