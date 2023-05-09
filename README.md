@@ -1,11 +1,11 @@
 # -Analyzing-Sewage-Violation-Demographics-Groundwater-Quality-in-Suffolk-County-NY
 
-## - Summary and Motivating Question: 
+##  Summary and Motivating Question: 
 Long Island faces unique water quality concerns because most buildings use onsite wastewater treatment systems (OWTS), which include septic tanks and leach fields, that directly discharge contaminants from filtered water into the only drinking water aquifer that more than 3 million Long Island residents drink from. 
 
 This analysis specifically looked at parcel-level data about wastewater processing infrastructure to assess which properties send their sewage to a central treatment plant and which have septic systems and directly Dump effluent into nearby groundwater. The goal is to analyze how the density of properties that have sewage connection infrastructure varies with geographic & demographic factors, including land-use, and zip-code level median income & total population.
 
-## - Results: 
+##  Results: 
 One drawback to this analysis is that Suffolk county has provided data about only approximately 23% of parcels in Suffolk County about if 	  they are connected to sewage systems or not. However, previous literature in the water quality in Field has identified that close to 75% of 	      county buildings lack sewage infrastructure.
 
 State data about where wastewater treatment plants are located helps provide a picture that many urban areas lack a WWTP, including     	Huntingville. The data also indicates that coastal neighborhoods in the Hamptons have few waste water treatment facilities
@@ -16,7 +16,7 @@ For tax parcels with sewer connections, 93% of them are located on residential p
 	
 
 
-## - Input Data:
+##  Input Data:
 This analysis uses data from the 2018 American community service API, the Suffolk County Open Data Portal, the New York State GIS Portal, 	  and USGS Coram. Information about centroids for each tax parcel and wastewater facility locations were downloaded from the New York State           GIS Parcel information site.
 
 Parcel data for New York State:
@@ -51,7 +51,7 @@ Tableau:
 	- Number of Buildings with Public Water Supply
 	- Number of Buildings with Private Water Supply
 
-## - Figures:
+##  Figures:
 
 Figure 1: Land-Use categories with white areas as residential for Suffolk County, LI, with data provided by Suffolk County Open Data Portal
 Shows: 
