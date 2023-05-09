@@ -99,11 +99,12 @@ Figure 8: Median Pesticide Concentrations (ng/L) for GW Sites within each ZIP Co
 <img width="476" alt="Screen Shot 2023-05-08 at 10 06 55 PM" src="https://user-images.githubusercontent.com/65619679/236975847-0e3c93ea-fc1c-4cc8-8647-1fe56040c777.png">
 
 Figure 9: Number of Sewage Connections by Land Use Category
-![sewer share raw # by land-use](https://github.com/mpgeiss/-Analyzing-Sewage-Violation-Demographics-Groundwater-Quality-in-Suffolk-County-NY/assets/65619679/133f4b2a-7518-4c53-87b2-67cd3dcfc942)
 
+![sewer share raw # by land-use](https://github.com/mpgeiss/-Analyzing-Sewage-Violation-Demographics-Groundwater-Quality-in-Suffolk-County-NY/assets/65619679/e48ff042-66dc-4a7c-9b84-606bf2e5a29f)
 
 Figure 10: Number of Septic Systems by Land Use Category
-![OWTS share by land-use](https://github.com/mpgeiss/-Analyzing-Sewage-Violation-Demographics-Groundwater-Quality-in-Suffolk-County-NY/assets/65619679/eb96d7db-3c6b-4f29-84ea-2d86910cc2a2)
+![For all septic system properties, share by land-use](https://github.com/mpgeiss/-Analyzing-Sewage-Violation-Demographics-Groundwater-Quality-in-Suffolk-County-NY/assets/65619679/4794e032-5221-4f00-8537-98a2b8519f59)
+
 
 
 
