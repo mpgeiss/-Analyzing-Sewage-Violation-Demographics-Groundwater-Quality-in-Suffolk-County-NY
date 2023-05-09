@@ -25,7 +25,7 @@ To create a map showing known sewage connection locations and ZIP Codes color-co
 - Select the demographic information as the join layer, use associated ZIP Code layers for the join field and target field. The result will have census and groundwater quality information by ZIP Code joined to the each zip code region.
 
 ### Image production
-For the zip code joined layer, I plotted the join_income category with the graduated layer style with a RdBu Color ramp with four classes for equal count Quantiles. Once you are satisfied with the map you are viewing, select the export map to image option under the project tab and change the resolution to 300 dpi.
+For the zip code joined layer, I plotted the join_income category with the graduated layer style with a RdBu Color ramp with four classes for equal count Quantiles. Once you are satisfied with the map you are viewing, select the export map to image option under the project tab and change the resolution to 300 dpi. USE THIS SAME PROCESS TO PRODUCE ALL FIGURES.
 
 ## Figure 3:
 For the third figure, the steps are exactly the same as the second one, except that for the joint ZIP Code layer, I plotted the join_population layer with five classes using equal quartiles and the ‘Cividis’ color ramp.
