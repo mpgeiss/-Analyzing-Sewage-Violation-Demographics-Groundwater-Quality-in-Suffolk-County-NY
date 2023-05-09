@@ -12,6 +12,8 @@ Results:
 
 	For Properties without septic system connections, 31% are recreational condition, 30% are residential, and open spaces, 28% are vacant. By 	   ZIP Code, zip code 11968 (Southampton), 11901 (Riverhead), and 11978 (Westhampton Beach) have the most parcels with septic tanks. It is 	   surprising for Westhampton Beach, which has an airport, to not have more modern sewage infrastructure.
 	
+	For tax parcels with sewer connections, 93% of them are located on residential properties for the data provided. 3% are located at 		commercial sites. For each ZIP Code, 11968, 11787, and 11946, respectively, have the highest number of parcels with sewer connections for 	  wastewater processing, which represent the Southampton region, smith town, & the Town of Hampton bays. ZIP Code 11767, part of Smithtown,           has the highest density of sewer connections per land area unit. Having a higher sooner density is likely favorable for surrounding drinking         water quality because it implies that fewer buildings are directly filtering & discharging wastewater onsite.
+	
 
 
 Input Data:
