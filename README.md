@@ -15,7 +15,13 @@ For Properties without septic system connections, 31% are recreational condition
 For tax parcels with sewer connections, 93% of them are located on residential properties for the data provided. 3% are located at 		commercial sites. For each ZIP Code, 11968, 11787, and 11946, respectively, have the highest number of parcels with sewer connections for 	  wastewater processing, which represent the Southampton region, smith town, & the Town of Hampton bays. ZIP Code 11767, part of Smithtown,           has the highest density of sewer connections per land area unit. Having a higher sewer density is likely favorable for surrounding drinking         water quality because it implies that fewer buildings are directly filtering & discharging wastewater onsite.
 
 ## Python Analysis Scripts
-### 1: 
+### 1: read in NYS parcel data.py
+This script reads in data for each tax centroid parcel and filters it to only include parcels in Suffolk County. These parcels can then be filtered to only include locations with known sewage or septic system infrastructure in QGIS.
+
+### 2: 
+
+### 3: analysis of counts per area.py
+this script calculates the number of septic systems, properties with sewage connections, and properties with septic systems per each ZIP Code and land-use category in Suffolk County. The script also produces basic visualizations to describe the relative ZIP Code and land use distribution of wastewater treatment plants and properties with sewage connections versus septic systems.
 
 
 ##  Input Data:
