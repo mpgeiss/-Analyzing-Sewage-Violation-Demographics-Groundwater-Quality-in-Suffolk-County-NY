@@ -87,7 +87,8 @@ Figure 9: Number of Sewage Connections by Land Use Category
 Figure 10: Number of Septic Systems by Land Use Category
 ![For all septic system properties, share by land-use](https://github.com/mpgeiss/-Analyzing-Sewage-Violation-Demographics-Groundwater-Quality-in-Suffolk-County-NY/assets/65619679/4794e032-5221-4f00-8537-98a2b8519f59)
 
-
+Figure 11: Number of County Wastewater Treatment Plants by Land Use Category:
+![OWTS share raw # by land-use](https://github.com/mpgeiss/-Analyzing-Sewage-Violation-Demographics-Groundwater-Quality-in-Suffolk-County-NY/assets/65619679/cad6d167-1e26-49c2-930f-9866ee3977f9)
 
 
 
