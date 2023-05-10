@@ -18,10 +18,11 @@ For tax parcels with sewer connections, 93% of them are located on residential p
 ### 1: read in NYS parcel data.py
 This script reads in data for each tax centroid parcel and filters it to only include parcels in Suffolk County. These parcels can then be filtered to only include locations with known sewage or septic system infrastructure in QGIS.
 
-### 2: 
+### 2: generate census gw demographics by zip.py
+The script downloads information for ZIP Codes in Suffolk county from the 2018 census API’s American Community Survey (ACS)’s database and stores it in a demographics_per_zip csv for later use.
 
 ### 3: analysis of counts per area.py
-this script calculates the number of septic systems, properties with sewage connections, and properties with septic systems per each ZIP Code and land-use category in Suffolk County. The script also produces basic visualizations to describe the relative ZIP Code and land use distribution of wastewater treatment plants and properties with sewage connections versus septic systems.
+This script calculates the number of septic systems, properties with sewage connections, and properties with septic systems per each ZIP Code and land-use category in Suffolk County. The script also produces basic visualizations to describe the relative ZIP Code and land use distribution of wastewater treatment plants and properties with sewage connections versus septic systems.
 
 
 ##  Input Data:
