@@ -40,24 +40,6 @@ Download the file 'tl_2020_us_zcta510.zip' from https://www.census.gov/cgi-bin/g
 #### US county boundaries: 
 Download the file 'cb_2018_us_county_500k.zip' from US Census Tiger Line file site: https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html
 	
-Tableau: 
-	The map is colored by median earnings per zip code, with red representing lower income & blue representing higher income
-
-	The map contains the following for select property centroids:
-	- Sewage Connection Status
-	- Water Supply Type
-
-	The map contains WWTPs
-
-	The map contains the following for each ZIP Code:
-	- Median income
-	- Total Population
-	- Number of WWTPs
-	- Number of Buildings with Sewer Connections
-	- Number of Buildings with no Sewer (OWTS)
-	- Number of Buildings with Public Water Supply
-	- Number of Buildings with Private Water Supply
-
 ##  Figures:
 
 Figure 1: Land-Use categories with white areas as residential for Suffolk County, LI, with data provided by Suffolk County Open Data Portal
