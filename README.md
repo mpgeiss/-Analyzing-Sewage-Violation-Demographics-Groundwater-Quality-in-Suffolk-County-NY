@@ -42,26 +42,26 @@ Download the file 'cb_2018_us_county_500k.zip' from US Census Tiger Line file si
 	
 ##  Figures:
 
-Figure 1: Land-Use categories with white areas as residential for Suffolk County, LI, with data provided by Suffolk County Open Data Portal
+### Figure 1: Land-Use categories with white areas as residential for Suffolk County, LI, with data provided by Suffolk County Open Data Portal
 Shows: 
 ![white areas residential land uses](https://user-images.githubusercontent.com/65619679/236970174-9a7717b1-e668-4248-b638-78671fa7be4b.png)
 <img width="609" alt="Screen Shot 2023-05-08 at 9 22 15 PM" src="https://user-images.githubusercontent.com/65619679/236970329-9e766f2c-8705-4ce3-b4f8-53d6cd996ff0.png">
 
-Figure 2: Plotting parcels with sewage locations (yellow) against income by zip-code
+### Figure 2: Plotting parcels with sewage locations (yellow) against income by zip-code
 
 ![sewer locations given by income](https://user-images.githubusercontent.com/65619679/236970529-dbc8e2cc-037c-4884-9787-9f990d10e7c1.png)
 <img width="443" alt="image" src="https://user-images.githubusercontent.com/65619679/236970569-c3d60155-609c-445e-9ef2-55bfb4fdba7a.png">
 
-Figure 3: Plotting parcels with sewage locations (yellow) against total population by zip-code
+### Figure 3: Plotting parcels with sewage locations (yellow) against total population by zip-code
 
 ![sewer locations by income share](https://user-images.githubusercontent.com/65619679/236970637-ad3f00bf-ce20-4cac-a65f-49ecdee118da.png)
 <img width="368" alt="image" src="https://user-images.githubusercontent.com/65619679/236970607-67b5175f-c769-4ab8-ba08-fbc52484293c.png">
 
-Figure 4: Plotting parcels with sewage locations (yellow) against WWTP locations (pink) atop land-use color file
+### Figure 4: Plotting parcels with sewage locations (yellow) against WWTP locations (pink) atop land-use color file
 
 ![sewage connections vs  WWTP locations entire county](https://user-images.githubusercontent.com/65619679/236970742-6d52a89c-5d25-4fa9-b74f-610d02f8600e.png)
 
-Figure 5: Plotting parcels with sewage locations (red) with land-use for each parcel
+### Figure 5: Plotting parcels with sewage locations (red) with land-use for each parcel
 
 ![sewage locations by land use](https://user-images.githubusercontent.com/65619679/236971258-61272a2e-7aa2-4eab-bbce-a6f31ad46766.png)
 <img width="609" alt="Screen Shot 2023-05-08 at 9 29 48 PM" src="https://user-images.githubusercontent.com/65619679/236971307-f871d68d-8360-4b25-ad40-b6427ca2660c.png">
@@ -70,24 +70,24 @@ Figure 6: Mapping  parcels with sewage locations (yellow) against WWTP locations
 
 ![sewer connects zoom end island vs WWTPs](https://user-images.githubusercontent.com/65619679/236971773-7769af43-e551-463f-889d-4994b1eea7b4.png)
 
-Figure 7: Median Pharmaceutical Concentrations (ng/L) for GW Sites within each ZIP Code atop parcel land-use layer
+### Figure 7: Median Pharmaceutical Concentrations (ng/L) for GW Sites within each ZIP Code atop parcel land-use layer
 
 <img width="945" alt="image" src="https://user-images.githubusercontent.com/65619679/236975796-ed775d43-b546-42c1-9af3-18e45ab36f30.png">
 <img width="609" alt="Screen Shot 2023-05-08 at 9 41 56 PM" src="https://user-images.githubusercontent.com/65619679/236972723-f9c348cd-8033-4822-b7b2-afa0a1d80ee8.png">
 
-Figure 8: Median Pesticide Concentrations (ng/L) for GW Sites within each ZIP Code atop parcel land-use layer
+### Figure 8: Median Pesticide Concentrations (ng/L) for GW Sites within each ZIP Code atop parcel land-use layer
 
 <img width="958" alt="Screen Shot 2023-05-08 at 9 46 26 PM" src="https://user-images.githubusercontent.com/65619679/236973275-48a49da2-06fe-458a-8343-d5b30253515a.png">
 <img width="476" alt="Screen Shot 2023-05-08 at 10 06 55 PM" src="https://user-images.githubusercontent.com/65619679/236975847-0e3c93ea-fc1c-4cc8-8647-1fe56040c777.png">
 
-Figure 9: Number of Sewage Connections by Land Use Category
+### Figure 9: Number of Sewage Connections by Land Use Category
 
 ![sewer share raw # by land-use](https://github.com/mpgeiss/-Analyzing-Sewage-Violation-Demographics-Groundwater-Quality-in-Suffolk-County-NY/assets/65619679/e48ff042-66dc-4a7c-9b84-606bf2e5a29f)
 
-Figure 10: Number of Septic Systems by Land Use Category
+### Figure 10: Number of Septic Systems by Land Use Category
 ![For all septic system properties, share by land-use](https://github.com/mpgeiss/-Analyzing-Sewage-Violation-Demographics-Groundwater-Quality-in-Suffolk-County-NY/assets/65619679/4794e032-5221-4f00-8537-98a2b8519f59)
 
-Figure 11: Number of County Wastewater Treatment Plants by Land Use Category:
+### Figure 11: Number of County Wastewater Treatment Plants by Land Use Category:
 ![OWTS share raw # by land-use](https://github.com/mpgeiss/-Analyzing-Sewage-Violation-Demographics-Groundwater-Quality-in-Suffolk-County-NY/assets/65619679/cad6d167-1e26-49c2-930f-9866ee3977f9)
 
 
