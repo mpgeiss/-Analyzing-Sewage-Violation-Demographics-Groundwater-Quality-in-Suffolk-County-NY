@@ -14,6 +14,11 @@ For Properties without septic system connections, 31% are recreational condition
 	
 For tax parcels with sewer connections, 93% of them are located on residential properties for the data provided. 3% are located at 		commercial sites. For each ZIP Code, 11968, 11787, and 11946, respectively, have the highest number of parcels with sewer connections for 	  wastewater processing, which represent the Southampton region, smith town, & the Town of Hampton bays. ZIP Code 11767, part of Smithtown,           has the highest density of sewer connections per land area unit. Having a higher sewer density is likely favorable for surrounding drinking         water quality because it implies that fewer buildings are directly filtering & discharging wastewater onsite.
 
+By zip code,
+- ZIP Codes 11768, 11787, & 11960 have the highest density of sewage connections per land area. There seems to be a rough, but not strong, positive, correlation between median income and sewage connection densities per zip. 
+- Zip codes 11742, 11755, and 11738 seem to have the highest density of WWTPs per geographic area. This analysis is highly flawed, however. Unfortunately, more than 90% of WWTPs were not joined to ZIP Code areas in the county, so this result; and figure 13, are incomplete. 
+
+
 ##  Input Data:
 This analysis uses data from the 2018 American community service API, the Suffolk County Open Data Portal, the New York State GIS Portal, 	  and USGS Coram. Information about centroids for each tax parcel and wastewater facility locations were downloaded from the New York State           GIS Parcel information site.
 
@@ -102,9 +107,10 @@ Figure 6: Mapping  parcels with sewage locations (yellow) against WWTP locations
 Color ramp shows median income, in terms of $10,000. Increasing x values indicate more known parcels with sewage connections per zip code land area unit.
 ![heatmap](https://github.com/mpgeiss/-Analyzing-Sewage-Violation-Demographics-Groundwater-Quality-in-Suffolk-County-NY/assets/65619679/27596eca-0895-4f74-84b4-ee6c72523aec)
 
-### Figure 12: Heatmap showing median income (Y) & density of WWTPs per unit area 	PER ZIP CODE
+### Figure 13: Heatmap showing median income (Y) & density of WWTPs per unit area 	PER ZIP CODE
 Color ramp shows median income, in terms of $10,000. Increasing x values indicate more Wastewater Treatment Plants per zip code land area unit.
-![heatmap2](https://github.com/mpgeiss/-Analyzing-Sewage-Violation-Demographics-Groundwater-Quality-in-Suffolk-County-NY/assets/65619679/a8949991-f9c2-4b2b-b646-ff89fff04fac)
+![heatmap2](https://github.com/mpgeiss/-Analyzing-Sewage-Violation-Demographics-Groundwater-Quality-in-Suffolk-County-NY/assets/65619679/782fdf81-6fd0-4626-b52d-65a9940f91ba)
+
 
 
 
