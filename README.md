@@ -98,5 +98,9 @@ Figure 6: Mapping  parcels with sewage locations (yellow) against WWTP locations
 ### Figure 11: Number of County Wastewater Treatment Plants by Land Use Category:
 ![OWTS share raw # by land-use](https://github.com/mpgeiss/-Analyzing-Sewage-Violation-Demographics-Groundwater-Quality-in-Suffolk-County-NY/assets/65619679/cad6d167-1e26-49c2-930f-9866ee3977f9)
 
+### Figure 12: Heatmap showing median income (Y) & density of sewage connections per unit area 	PER ZIP CODE
+![heatmap](https://github.com/mpgeiss/-Analyzing-Sewage-Violation-Demographics-Groundwater-Quality-in-Suffolk-County-NY/assets/65619679/27596eca-0895-4f74-84b4-ee6c72523aec)
+
+
 
 
