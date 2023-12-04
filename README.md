@@ -111,6 +111,9 @@ Color ramp shows median income, in terms of $10,000. Increasing x values indicat
 Color ramp shows median income, in terms of $10,000. Increasing x values indicate more Wastewater Treatment Plants per zip code land area unit.
 ![heatmap2](https://github.com/mpgeiss/-Analyzing-Sewage-Violation-Demographics-Groundwater-Quality-in-Suffolk-County-NY/assets/65619679/782fdf81-6fd0-4626-b52d-65a9940f91ba)
 
+### Figure 14: Heatmap Showing Relative Compound Concentrations per Sample Site:
+Heatmap displays median compound concentrations per sample site per compound
+cid:11E74B3C-9523-41B1-BFEE-64A3191C327D![image](https://github.com/mpgeiss/-Analyzing-Sewage-Violation-Demographics-Groundwater-Quality-in-Suffolk-County-NY/assets/65619679/e8f3997c-330e-4cbc-8787-b8af15ce11ca)
 
 
 
