@@ -113,7 +113,7 @@ Color ramp shows median income, in terms of $10,000. Increasing x values indicat
 
 ### Figure 14: Heatmap Showing Relative Compound Concentrations per Sample Site:
 Heatmap displays median compound concentrations per sample site per compound
-cid:11E74B3C-9523-41B1-BFEE-64A3191C327D![image](https://github.com/mpgeiss/-Analyzing-Sewage-Violation-Demographics-Groundwater-Quality-in-Suffolk-County-NY/assets/65619679/e8f3997c-330e-4cbc-8787-b8af15ce11ca)
+![image](https://github.com/mpgeiss/-Analyzing-Sewage-Violation-Demographics-Groundwater-Quality-in-Suffolk-County-NY/assets/65619679/e8f3997c-330e-4cbc-8787-b8af15ce11ca)
 
 
 
